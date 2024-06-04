@@ -25,3 +25,6 @@ stripe
 toml
 urllib3
 wrapt
+gunicorn
+psycopg2
+dj-databse-url
