@@ -28,4 +28,4 @@ wrapt
 gunicorn
 psycopg2
 crispy_bootstrap4
-dj-databse-url
+
